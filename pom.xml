@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.zukeran</groupId>
-	<artifactId>tiojiro-telegram-bot</artifactId>
+	<artifactId>tiojiro-telegram-bot-standalone</artifactId>
 	<version>1.0</version>
-	<name>tiojiro-telegram-bot</name>
+	<name>tiojiro-telegram-bot-standalone</name>
 	<description>Tiojiro Telegram Bot Standalone</description>
 
 	<properties>
